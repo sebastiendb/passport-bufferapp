@@ -1,6 +1,6 @@
 {
   "name": "passport-bufferapp",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Bufferapp authentication strategy for Passport.",
   "author": {
     "name": "Sébastien De Bollivier",
@@ -16,7 +16,7 @@
   "main": "./lib/",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "0.1.x"
+    "passport-oauth": "1.x.x"
   },
   "engines": {
     "node": ">= 0.4.0"
@@ -30,7 +30,7 @@
   "keywords": [
     "passport",
     "bufferapp",
-    "oauth2"
+    "oauth2",
     "auth",
     "authn",
     "authentication",
